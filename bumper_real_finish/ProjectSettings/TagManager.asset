@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bullet
+  - HilItem
+  - Random
+  - Enemy
+  - Play
+  - EnemyBullet
+  - Mine
+  - Boss
   layers:
   - Default
   - TransparentFX

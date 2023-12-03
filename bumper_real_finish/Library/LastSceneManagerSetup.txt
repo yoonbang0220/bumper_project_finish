@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/bumpercar1team-main/PolygonTown/Scenes/Game0.unity
+- path: Assets/bumpercar1team-main/PolygonTown/Scenes/Loading.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
